@@ -18,9 +18,9 @@
 
 ## Sections 1: Programming Basics
 > To kick off the program, you’ll explore habits, computer basics, and fundamental programming concepts and skills necessary to be successful in your bootcamp!
-- [ ] Basic computer literacy
-- [ ] Algorithmic foundations
-- [ ] Learning stamina
+- [x] Basic computer literacy
+- [x] Algorithmic foundations
+- [x] Learning stamina
 
 ## Sections 2: Web Fundamentels
 > During Web Fundamentals, you’ll be introduced to HTML, CSS along with other common tools in the industry. At the end of this three week course, students should be able to build out static web pages with JavaScript interactivity.
