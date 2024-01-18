@@ -14,24 +14,22 @@
 -------
 -->
 
-<!-- Programming Basics -->
-
-## Sections 1: Programming Basics
-> To kick off the program, you’ll explore habits, computer basics, and fundamental programming concepts and skills necessary to be successful in your bootcamp!
+<!-- ! Fundamentals -->
+## Sections 1: [Fundamentels](./Section-1:Fundamentals/fundamentals.md)
+> During Web Fundamentals, you’ll be introduced to HTML, CSS along with other common tools in the industry. At the end of this three week course. To kick off the program, you’ll explore habits, computer basics, and fundamental programming concepts and skills necessary to be successful in your bootcamp!
 - [x] Basic computer literacy
-- [x] Algorithmic foundations
 - [x] Learning stamina
+- [x] C Language
+- [x] DSA Foundations
+- [x] HTML, CSS
+- [x] Git/Github
+- [x] HTTP Request Response
 
-## Sections 2: Web Fundamentels
-> During Web Fundamentals, you’ll be introduced to HTML, CSS along with other common tools in the industry. At the end of this three week course, students should be able to build out static web pages with JavaScript interactivity.
-- [ ] HTML, CSS
-- [ ] Git/Github
-- [ ] HTTP Request Response
-- [ ] Optional: jQuery & Wireframing
-
-## Sections 3: Full-Stack Javascript
+<!-- ! FS JavaScript -->
+## Sections 2: [Full-Stack Javascript](./Section-2:FullStack-JavaScript/fullstack-javascript.md)
 > Mid-program, explore your second full-stack language: JavaScript. Studying a wide-range of applicable formats, students can obtain familiarity with building web applications using common industry technologies like MongoDB, Express, React, and NodeJS.
 - [ ] JavaScript Fundamentals & OOP
+- [ ] DSA
 - [ ] Node.JS
 - [ ] Express.JS
 - [ ] Socket.io
@@ -39,8 +37,10 @@
 - [ ] React
 - [ ] Vue
 - [ ] React Native
+- [ ] Electron
 
-## Sections 4: Full-Stack Python
+<!-- ! FS Python -->
+## Sections 3: [Full-Stack Python](./Section-3:FullStack-Python/)
 > Dive into the first full-stack language: Python. Beginning with small projects, you’ll work your way up to designing a full framework project alongside your classmates and instructor.
 - [ ]  Python Fundamentals & OOP
 - [ ]  MySQL
@@ -50,7 +50,9 @@
 - [ ]  Web Security Basics
 - [ ]  Object Relational Mapper
 
-## Sections 5: Full-Stack Java or C#/.NET
+### Data Science
+
+## Sections 4: [Full-Stack Java or C#/.NET](./Section-4:Java||C#(.NET)/)
 > For your last full-stack language, students will select either Java or C#/.NET in the last 4 weeks of their course.
 
 ### Java
