@@ -4,13 +4,13 @@
 | Phase | Name                                                                  | Time    | Content                                                                                                                                                          |
 | :---: | :-------------------------------------------------------------------- | :------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1   | [Programming Basic](#week-one-programming-basics)                     | 7 Days  | Basic computer literacy, Algorithmic foundations, Learning stamina                                                                                               |
-|   2   | [Web Fundamentals](#weeks-two-to-four-web-fundamentels)               | 21 Days | HTML, CSS, Git/Github, HTTP Request Response, Optional: jQuery & Wireframing                                                                       |
-|   3   | [Full-Stack Javascript](#weeks-five-to-eight-full-stack-javascript)   | 28 Days | JavaScript Fundamentals & OOP, Node.JS, Express.JS, Socket.io, MongoDB, React, Vue, React Native                                                                      |
+|   2   | [Web Fundamentals](#weeks-two-to-four-web-fundamentels)               | 21 Days | HTML, CSS, Git/Github, HTTP Request Response, Optional: jQuery & Wireframing                                                                                     |
+|   3   | [Full-Stack Javascript](#weeks-five-to-eight-full-stack-javascript)   | 28 Days | JavaScript Fundamentals & OOP, Node.JS, Express.JS, Socket.io, MongoDB, React, Vue, React Native                                                                 |
 |   4   | [Object-Oriented Programming](#)                                      | 7 Days  | OOP Concepts (Encapsulation, Inheritance, Polymorphism, Abstraction, and Composition), Design Principles (DRY, KISS, YAGNI, SOLID, Separation of Concern.)       |
 |   5   | [Full-Stack Python](#weeks-nine-to-twelve-full-stack-python)          | 28 Days | Python Fundamentals & OOP, MySQL, Flask, MVC Framework , ERD / Database Design, Web Security Basics, Object Relational Mapper                                    |
 |   6   | [Full-Stack Java](#weeks-thirteen-to-sixteen-full-stack-java-or-cnet) | 28 Days | Java Fundamentals & OOP, Java Web Development, Java Spring MVC, Boot, Security, (JPA Hibernate), ThymeLeaf, Tomcat, Deployment                                   |
 |   7   | [C#/.NET](#weeks-thirteen-to-sixteen-full-stack-java-or-cnet)         | 28 Days | C# & C# OOP, .NET Core, ASP.NET Core MVC, Application Deployment (Azure & AWS), Identity Framework, Compilation and Debugging                                    |
-|   8   | [Expert in DSA](#)                                                    | 21 Days | DSA Foundations, Basic DSA, Basic Algorithms, Basic Maths for Programming, Intermediate Algorithms, Intermediate Data Structures, Advanced Algorithms, Graph DSA | 
+|   8   | [Expert in DSA](#)                                                    | 21 Days | DSA Foundations, Basic DSA, Basic Algorithms, Basic Maths for Programming, Intermediate Algorithms, Intermediate Data Structures, Advanced Algorithms, Graph DSA |
 -------
 -->
 
